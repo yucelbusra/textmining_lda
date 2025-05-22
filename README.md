@@ -1,2 +1,2 @@
-# textmining_lda
+# textmining_BERTopic
 Topic modeling
